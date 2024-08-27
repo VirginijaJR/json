@@ -1,0 +1,8 @@
+{
+    "icon": "http://example.com/app_icon.png",
+    "title": "React example",
+    "url": "http://example.com/index.html",
+    "description": "Test extension",
+    "configCommand": "do_config",
+    "enabled": false
+}
